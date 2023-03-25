@@ -11,6 +11,6 @@
         <title>Quick intro to php</title>
     </head>
     <body>
-        <?php echo "Hello {$name}" ?>
+        <?php echo $dark . $name ?>
     </body>
 </html>
